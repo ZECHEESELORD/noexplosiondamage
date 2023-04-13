@@ -1,0 +1,4 @@
+name: GlobalRealmsUtil
+version: '${version}'
+main: sh.harold.globalrealms.GlobalRealmsUtil
+api-version: 1.19
